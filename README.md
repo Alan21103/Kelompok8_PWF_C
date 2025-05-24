@@ -13,8 +13,8 @@
 1. **APLIKASI PENDATAAN GENUS IKAN CHANNA BERBASIS WEB MENGGUNAKAN FRAMEWORK LARAVEL**  
    [🔗 Download PDF - UKSW](https://ejournal.uksw.edu/itexplore/article/download/10306/2669)
 
-2. **E-Arsip UKM Paskamras Berbasis Web Menggunakan Framework Laravel**  
-   [🔗 Lihat Jurnal](http://j-innovative.org/index.php/Innovative/article/view/17993)
+2. **Implementasi framework Laravel dalam Pengembangan Website Layanan Administratif Program Studi**  
+   [🔗 Lihat Jurnal](https://ejurnal.ung.ac.id/index.php/jji/article/view/27803)
 
 3. **Implementasi Framework Laravel Untuk Pengembangan Website Penjualan Ayam Potong Dengan Pemanfaatan Midtrans Menggunakan Metode Fast**  
    [🔗 Lihat Jurnal](https://ejournal.sisfokomtek.org/index.php/jikom/article/view/2920)
