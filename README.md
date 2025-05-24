@@ -16,8 +16,8 @@
 2. **Sistem Pemesanan Paket Tour and Travel pada Ikhlas Travel Berbasis Website Menggunakan Framework Laravel**  
    [🔗 Baca Artikel - Jurnal Satesi](https://journal.yp3a.org/index.php/satesi/article/view/4083)
 
-3. **RANCANG BANGUN APLIKASI PEMESANAN TIKET BERBASIS WEBSITE MENGGUNAKAN FRAMEWORK LARAVEL (Wisata Air Terjun Bedegung Kabupaten Muara Enim**  
-   [🔗 Lihat Repository - Raden Intan](https://repository.radenintan.ac.id/38387/)
+3. **Implementasi Framework Laravel Untuk Pengembangan Website Penjualan Ayam Potong Dengan Pemanfaatan Midtrans Menggunakan Metode Fast**  
+   [🔗 Lihat Jurnal](https://ejournal.sisfokomtek.org/index.php/jikom/article/view/2920)
 
 
 
