@@ -14,7 +14,7 @@
    [🔗 Download PDF - UKSW](https://ejournal.uksw.edu/itexplore/article/download/10306/2669)
 
 2. **E-Arsip UKM Paskamras Berbasis Web Menggunakan Framework Laravel**  
-   [🔗 Lihat Jurnal]([https://journal.yp3a.org/index.php/satesi/article/view/4083](http://j-innovative.org/index.php/Innovative/article/view/17993))
+   [🔗 Lihat Jurnal](http://j-innovative.org/index.php/Innovative/article/view/17993)
 
 3. **Implementasi Framework Laravel Untuk Pengembangan Website Penjualan Ayam Potong Dengan Pemanfaatan Midtrans Menggunakan Metode Fast**  
    [🔗 Lihat Jurnal](https://ejournal.sisfokomtek.org/index.php/jikom/article/view/2920)
