@@ -16,8 +16,8 @@
 2. **Implementasi framework Laravel dalam Pengembangan Website Layanan Administratif Program Studi**  
    [🔗 Lihat Jurnal](https://ejurnal.ung.ac.id/index.php/jji/article/view/27803)
 
-3. **Implementasi Framework Laravel Untuk Pengembangan Website Penjualan Ayam Potong Dengan Pemanfaatan Midtrans Menggunakan Metode Fast**  
-   [🔗 Lihat Jurnal](https://ejournal.sisfokomtek.org/index.php/jikom/article/view/2920)
+3. **IMPLEMENTASI FRAMEWORKLARAVEL 7.1 PADA SISTEM INFORMASI PENJUALAN CONVENIENCE STOREEMMI SHOP**  
+   [🔗 Lihat Jurnal](https://jurnal.stkippgritulungagung.ac.id/index.php/jipi/article/view/5584/2477)
 
 
 
