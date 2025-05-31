@@ -10,8 +10,9 @@
 | Khaiqal Satrio                | 20220140115 |
 
 ## 📚 Referensi Jurnal
-1. **Sistem Informasi Berbasis Web Menggunakan Framework Laravel pada Rancangan Sistem Inventory Gudang**  
-   [🔗 Download PDF - UKSW](https://ojs.stmik-banjarbaru.ac.id/index.php/jutisi/article/view/1588))
+1. **Sistem Informasi Rekam Medis Berbasis Web Pada Puskesmas Rasau Jaya Pontianak Menggunakan Framework Laravel 5.6**  
+   [🔗 Download PDF - UKSW][7117-20580-1-PB.pdf](https://github.com/user-attachments/files/20532437/7117-20580-1-PB.pdf)
+
 
 2. **Implementasi framework Laravel dalam Pengembangan Website Layanan Administratif Program Studi**  
    [🔗 Lihat Jurnal](https://ejurnal.ung.ac.id/index.php/jji/article/view/27803)
